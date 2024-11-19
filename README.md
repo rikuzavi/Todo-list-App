@@ -12,6 +12,8 @@ Currently, two official plugins are available:
 # Todo List App using React + Vite
 
 cd > to the file
+
 npm run dev
+
 redirect -> 
 http://localhost:5173/public/index.html
