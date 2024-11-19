@@ -1,0 +1,21 @@
+.strike{
+    text-decoration: line-through;
+}
+
+#btn{
+    margin-left: 30px;
+    font-size: large;
+    border-radius: 10px;
+    background-color: red;
+    width: 80px;
+    margin-bottom: 5px;
+}
+
+#item{
+    display: flex;
+}
+dt{
+    font-size: x-large;
+    cursor: pointer;
+    margin-bottom: 5px;
+}
